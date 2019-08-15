@@ -34,7 +34,7 @@ LIVING ROOM
 *************************************************************/
 
 #livingRoom-body {
-    background-image: url("/images/background-min.png");
+    background-image: url("/public/images/background-min.png");
     background-position: center;
 
     background-color: rgb(112, 174, 199); 
@@ -53,7 +53,7 @@ GALLERY
 #imageGallery {
     border: 1px rgba(255, 0, 0, 0) solid; 
     
-    background-image: url("/images/frame-min.png");
+    background-image: url("/public/images/frame-min.png");
 
     background-position: center;
     background-repeat: no-repeat; 
